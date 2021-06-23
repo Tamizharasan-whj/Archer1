@@ -14,7 +14,7 @@ var arrow,arrow1;
 
 function setup() {
   canvas = createCanvas(1200,1000);
-
+console.log(Matter);
   engine = Engine.create();
   world = engine.world;
 
