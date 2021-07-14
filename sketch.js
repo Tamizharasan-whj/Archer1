@@ -24,7 +24,7 @@ console.log(Matter);
 
  computerBase = new ComputerBase(900,800,180,150);
  computer  = new Computer(900,660,80,160);
- arrow = new Hand(850,580,120,140,angle);
+// arrow = new Hand(850,580,120,140,angle);
  
 
   //Create an arrow Object
